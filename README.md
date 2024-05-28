@@ -12,10 +12,14 @@ In order for this script to work properly you will need a few things before hand
 
 - a working Python installation. 
 - export your collection from Rekordbox to an xml file. As of Rekordbox 7.0.1, this is easily done by clicking on File -> Export collection in xml format. 
+
   The script, as-is, needs the library file saved as a 'rekordbox.xml' file in the same folder as the script itself.
 
 For execution, simply type `python rekordbox-m3u8-batch.py` in your terminal window or using your preferred Python environment. 
-Run the file and the folder 'playlists' should appear. For iTunes usage, simply select all the playlists you wish to import and click 'Enter'. 
+
+Run the file and the folder 'playlists' should appear. 
+
+For iTunes usage, simply select all the playlists you wish to import and click 'Enter'. 
 Voilà!
 
 # DISCLAIMER
